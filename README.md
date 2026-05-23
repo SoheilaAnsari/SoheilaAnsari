@@ -11,12 +11,16 @@ fine-tuning LLMs for culture-aware translation of classical Persian poetry, fusi
 🌼 a little about me
 
 🎓 soon-to-graduate PhD ✨
+
 🗣️ Persian (native), English (fluent), French (intermediate)
+
 🌱 also learned a bit of Innu-Aimun — Kuei, tan eshpanin? 🍃 (hello, how are you?)
+
 ☕ powered by painting, nature, and research
 
 
 #### 🌻 let's connect
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/soheila-ansari/)
 
 
