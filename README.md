@@ -8,15 +8,13 @@ currently making machines understand Rumi 💛
 
 fine-tuning LLMs for culture-aware translation of classical Persian poetry, fusing text + speech for richer context, and designing evaluation methods that go beyond standard metrics to capture cultural fidelity.
 
-🌼 a little about me
+🌼 A little about me
 
 🎓 soon-to-graduate PhD ✨
 
 🗣️ Persian (native), English (fluent), French (intermediate)
 
-🌱 also learned a bit of Innu-Aimun — Kuei, tan eshpanin? 🍃 (hello, how are you?)
-
-☕ powered by painting, nature, and research
+🌱 I also learned a bit of Innu-Aimun: Kuei, tan eshpanin? ;) (hello, how are you?)
 
 
 #### 🌻 let's connect
