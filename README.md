@@ -1,6 +1,8 @@
-### hi! ☀️ i'm Soheila
+### Hi! ☀️ I'm Soheila
 
-wrapping up my PhD in CS @ UQAM 🌻 i do NLP research on low-resource languages and multimodal neural machine translation. currently making machines understand Rumi 💛
+Wrapping up my PhD in CS @ UQAM 🌻 
+I do NLP research on low-resource languages and multi-modal neural machine translation. 
+currently making machines understand Rumi 💛
 
 #### 🌻 let's connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/soheila-ansari/)
