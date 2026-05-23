@@ -5,6 +5,7 @@ I do NLP research on low-resource languages and multi-modal neural machine trans
 currently making machines understand Rumi 💛
 
 🌞 what I'm working on
+
 fine-tuning LLMs for culture-aware translation of classical Persian poetry, fusing text + speech for richer context, and designing evaluation methods that go beyond standard metrics to capture cultural fidelity.
 
 🌼 a little about me
